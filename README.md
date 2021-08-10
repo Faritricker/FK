@@ -26,6 +26,6 @@ $ rm -rf FK
 
 $ git clone https://github.com/Faritricker/FK
 
-$ cd CC
+$ cd FK
 
 $ python2 FK.so
